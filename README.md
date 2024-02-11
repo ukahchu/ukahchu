@@ -21,7 +21,7 @@
   <img
     align="right"
     width="400"
-    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr7ZgZdz1L2KE8ielEbzKApte3kIznM2o9k462THcs1A&s"
+    src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif"
     alt=""
   />
 </p>
