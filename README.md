@@ -26,12 +26,12 @@
   />
 </p>
 
-- 🌱 I’m currently learning **Javascript,react,postgres**
+- 🌱 I’m currently learning **React**
 - 👯 I’m looking to collaborate on **Javascript & react projects**
 - 🤝 I’m looking for help with **Javascript,react,postgres**
 - 👨‍💻 All of my projects are available at [https://hilarious-gelato-d68d2b.netlify.app/](https://hilarious-gelato-d68d2b.netlify.app/)
 - 📝 I regularly write articles on [https://ukahchu.github.io/wachutech/](https://ukahchu.github.io/wachutech/)
-- 💬 Ask me about **HTML CSS Bootstrap 4 JavaScript DOM JQuery Node.js Express.js React.js Postgres**
+- 💬 Ask me about **HTML CSS Bootstrap 5 JavaScript DOM JQuery Node.js Express.js React.js Postgres**
 - 📫 How to reach me **ukahchu@gmail.com**
 - 📄 Know about my experiences [https://hilarious-gelato-d68d2b.netlify.app/](https://hilarious-gelato-d68d2b.netlify.app/)
 - ⚡ Fun fact ** I am a Funny dude😜**
